@@ -4,7 +4,7 @@
 Projeto desenvolvido como Material Complementar durante a semana 5 do curso de Orientação a Objetos
 com Java, pelo ITA, na plataforma Coursera.
 
-## Instruções do Projeto
+## Instruções do Exercício
 Crie uma interface chamada FormatadorNome que possui o método String formatarNome(String nome, String sobrenome).
 
 Crie uma classe chamada Autoridade que possui atributos como nome, sobrenome e uma instância de 
